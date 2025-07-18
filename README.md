@@ -7,6 +7,7 @@
 ## Description
 Crow-Eye ShimCache Analyzer is a CLI tool for parsing Windows ShimCache data from the registry or offline SYSTEM hives. It extracts execution artifacts, supports Windows 7 and 10/11, and outputs to SQLite, JSON, or CSV. Features include UWP entry handling, sorting, and timestamp filtering.
 
+
 ## Installation
 1. **Prerequisites**:
    - Python 3.6+ (e.g., `C:/Users/Ghass/AppData/Local/Microsoft/WindowsApps/python3.12.exe`).
