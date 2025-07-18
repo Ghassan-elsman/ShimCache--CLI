@@ -83,6 +83,3 @@ type "C:\Shimcache CLI\shimcache_analyzer.log" | findstr "Successfully read Shim
   ```powershell
   type "C:\Shimcache CLI\shimcache_analyzer.log" | findstr "ERROR"
   ```
-
-## Support
-Share `shimcache_analyzer.log` and error output for assistance. Specify desired features or output formats.
